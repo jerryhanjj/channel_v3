@@ -9,7 +9,7 @@ Sublime Text3 Package Control 插件源被墙，插件安装出错
 	"bootstrapped": true,
 	"channels":
 	[
-		"http://cst.stu.126.net/u/json/cms/channel_v3.json"
+		"https://raw.githubusercontent.com/jerryhanjj/channel_v3/master/channel_v3.json"
 	],
 	"in_process_packages":
 	[
